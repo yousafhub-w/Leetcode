@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-maximum-achievable-number](https://github.com/yousafhub-w/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/yousafhub-w/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Simulation
 |  |
 | ------- |
