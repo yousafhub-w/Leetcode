@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yousafhub-w/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/yousafhub-w/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -35,4 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/yousafhub-w/Leetcode/tree/master/0344-reverse-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/yousafhub-w/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/yousafhub-w/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
