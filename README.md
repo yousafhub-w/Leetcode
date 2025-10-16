@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/yousafhub-w/Leetcode/tree/master/0344-reverse-string) |
+| [0742-to-lower-case](https://github.com/yousafhub-w/Leetcode/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/yousafhub-w/Leetcode/tree/master/1044-find-common-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yousafhub-w/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yousafhub-w/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
