@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/yousafhub-w/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/yousafhub-w/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yousafhub-w/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/yousafhub-w/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/yousafhub-w/Leetcode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/yousafhub-w/Leetcode/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/yousafhub-w/Leetcode/tree/master/1044-find-common-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yousafhub-w/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/yousafhub-w/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/yousafhub-w/Leetcode/tree/master/2502-sort-the-people) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yousafhub-w/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
