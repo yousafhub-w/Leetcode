@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/yousafhub-w/Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/yousafhub-w/Leetcode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/yousafhub-w/Leetcode/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/yousafhub-w/Leetcode/tree/master/1044-find-common-characters) |
