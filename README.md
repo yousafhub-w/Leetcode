@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yousafhub-w/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/yousafhub-w/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/yousafhub-w/Leetcode/tree/master/2502-sort-the-people) |
+| [4008-restore-finishing-order](https://github.com/yousafhub-w/Leetcode/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/yousafhub-w/Leetcode/tree/master/1044-find-common-characters) |
 | [2502-sort-the-people](https://github.com/yousafhub-w/Leetcode/tree/master/2502-sort-the-people) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yousafhub-w/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4008-restore-finishing-order](https://github.com/yousafhub-w/Leetcode/tree/master/4008-restore-finishing-order) |
 ## Sliding Window
 |  |
 | ------- |
