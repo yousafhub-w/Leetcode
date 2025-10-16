@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yousafhub-w/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/yousafhub-w/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1044-find-common-characters](https://github.com/yousafhub-w/Leetcode/tree/master/1044-find-common-characters) |
+| [1580-shuffle-the-array](https://github.com/yousafhub-w/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/yousafhub-w/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
