@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/yousafhub-w/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2491-smallest-even-multiple](https://github.com/yousafhub-w/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/yousafhub-w/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yousafhub-w/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
