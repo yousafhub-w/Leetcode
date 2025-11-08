@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yousafhub-w/Leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yousafhub-w/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/yousafhub-w/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0909-stone-game](https://github.com/yousafhub-w/Leetcode/tree/master/0909-stone-game) |
 | [1044-find-common-characters](https://github.com/yousafhub-w/Leetcode/tree/master/1044-find-common-characters) |
 | [1580-shuffle-the-array](https://github.com/yousafhub-w/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/yousafhub-w/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/yousafhub-w/Leetcode/tree/master/0909-stone-game) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/yousafhub-w/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2491-smallest-even-multiple](https://github.com/yousafhub-w/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/yousafhub-w/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -91,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yousafhub-w/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/yousafhub-w/Leetcode/tree/master/0909-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/yousafhub-w/Leetcode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
