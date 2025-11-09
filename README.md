@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0909-stone-game](https://github.com/yousafhub-w/Leetcode/tree/master/0909-stone-game) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/yousafhub-w/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/yousafhub-w/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/yousafhub-w/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/yousafhub-w/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yousafhub-w/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2058-concatenation-of-array](https://github.com/yousafhub-w/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yousafhub-w/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/yousafhub-w/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## String
 |  |
 | ------- |
