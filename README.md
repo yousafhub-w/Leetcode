@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/yousafhub-w/Leetcode/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/yousafhub-w/Leetcode/tree/master/1013-fibonacci-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/yousafhub-w/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/yousafhub-w/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/yousafhub-w/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -95,12 +96,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yousafhub-w/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/yousafhub-w/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/yousafhub-w/Leetcode/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/yousafhub-w/Leetcode/tree/master/1013-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/yousafhub-w/Leetcode/tree/master/0909-stone-game) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/yousafhub-w/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
