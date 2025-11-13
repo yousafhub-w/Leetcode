@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yousafhub-w/Leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yousafhub-w/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/yousafhub-w/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/yousafhub-w/Leetcode/tree/master/0268-missing-number) |
 | [0909-stone-game](https://github.com/yousafhub-w/Leetcode/tree/master/0909-stone-game) |
 | [1044-find-common-characters](https://github.com/yousafhub-w/Leetcode/tree/master/1044-find-common-characters) |
 | [1580-shuffle-the-array](https://github.com/yousafhub-w/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yousafhub-w/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yousafhub-w/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/yousafhub-w/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/yousafhub-w/Leetcode/tree/master/0268-missing-number) |
 | [1044-find-common-characters](https://github.com/yousafhub-w/Leetcode/tree/master/1044-find-common-characters) |
 | [2502-sort-the-people](https://github.com/yousafhub-w/Leetcode/tree/master/2502-sort-the-people) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yousafhub-w/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/yousafhub-w/Leetcode/tree/master/0268-missing-number) |
 | [0909-stone-game](https://github.com/yousafhub-w/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/yousafhub-w/Leetcode/tree/master/1013-fibonacci-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/yousafhub-w/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yousafhub-w/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/yousafhub-w/Leetcode/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/yousafhub-w/Leetcode/tree/master/0268-missing-number) |
 | [2502-sort-the-people](https://github.com/yousafhub-w/Leetcode/tree/master/2502-sort-the-people) |
 ## Backtracking
 |  |
@@ -116,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yousafhub-w/Leetcode/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/yousafhub-w/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
