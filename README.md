@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yousafhub-w/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yousafhub-w/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yousafhub-w/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/yousafhub-w/Leetcode/tree/master/0575-distribute-candies) |
 | [0909-stone-game](https://github.com/yousafhub-w/Leetcode/tree/master/0909-stone-game) |
 | [1044-find-common-characters](https://github.com/yousafhub-w/Leetcode/tree/master/1044-find-common-characters) |
 | [1580-shuffle-the-array](https://github.com/yousafhub-w/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yousafhub-w/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yousafhub-w/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yousafhub-w/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/yousafhub-w/Leetcode/tree/master/0575-distribute-candies) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yousafhub-w/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/yousafhub-w/Leetcode/tree/master/1044-find-common-characters) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yousafhub-w/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
