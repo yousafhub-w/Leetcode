@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yousafhub-w/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/yousafhub-w/Leetcode/tree/master/0575-distribute-candies) |
 | [0909-stone-game](https://github.com/yousafhub-w/Leetcode/tree/master/0909-stone-game) |
+| [1002-find-common-characters](https://github.com/yousafhub-w/Leetcode/tree/master/1002-find-common-characters) |
 | [1044-find-common-characters](https://github.com/yousafhub-w/Leetcode/tree/master/1044-find-common-characters) |
 | [1580-shuffle-the-array](https://github.com/yousafhub-w/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/yousafhub-w/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yousafhub-w/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/yousafhub-w/Leetcode/tree/master/0575-distribute-candies) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yousafhub-w/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1002-find-common-characters](https://github.com/yousafhub-w/Leetcode/tree/master/1002-find-common-characters) |
 | [1044-find-common-characters](https://github.com/yousafhub-w/Leetcode/tree/master/1044-find-common-characters) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yousafhub-w/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/yousafhub-w/Leetcode/tree/master/2418-sort-the-people) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/yousafhub-w/Leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/yousafhub-w/Leetcode/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yousafhub-w/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1002-find-common-characters](https://github.com/yousafhub-w/Leetcode/tree/master/1002-find-common-characters) |
 | [1044-find-common-characters](https://github.com/yousafhub-w/Leetcode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yousafhub-w/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yousafhub-w/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
