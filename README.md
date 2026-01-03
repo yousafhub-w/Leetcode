@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/yousafhub-w/Leetcode/tree/master/0412-fizz-buzz) |
 | [0909-stone-game](https://github.com/yousafhub-w/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/yousafhub-w/Leetcode/tree/master/1013-fibonacci-number) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/yousafhub-w/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/yousafhub-w/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/yousafhub-w/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/yousafhub-w/Leetcode/tree/master/2491-smallest-even-multiple) |
