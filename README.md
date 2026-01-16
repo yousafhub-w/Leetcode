@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yousafhub-w/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yousafhub-w/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yousafhub-w/Leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/yousafhub-w/Leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yousafhub-w/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/yousafhub-w/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yousafhub-w/Leetcode/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/yousafhub-w/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/yousafhub-w/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/yousafhub-w/Leetcode/tree/master/0412-fizz-buzz) |
 | [0909-stone-game](https://github.com/yousafhub-w/Leetcode/tree/master/0909-stone-game) |
