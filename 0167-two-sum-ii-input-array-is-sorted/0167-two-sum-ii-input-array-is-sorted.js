@@ -6,7 +6,7 @@ var twoSum = function(numbers, target) {
         let sum = numbers[left] + numbers[right];
 
         if (sum === target) {
-            // Return 1-based indices
+            
             return [left + 1, right + 1];
         } else if (sum < target) {
             left++;
