@@ -1,0 +1,15 @@
+function twoSum(nums, target) {
+    const map = {}; // number -> index
+
+    for (let i = 0; i < nums.length; i++) {
+        const needed = target - nums[i];
+
+        // If pair already seen
+        if (map.hasOwnProperty(needed)) {
+            return [map[needed], i];
+        }
+
+        // Store current number
+        map[nums[i]] = i;
+    }
+}
