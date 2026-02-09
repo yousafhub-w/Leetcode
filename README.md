@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yousafhub-w/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yousafhub-w/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/yousafhub-w/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/yousafhub-w/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yousafhub-w/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yousafhub-w/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/yousafhub-w/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yousafhub-w/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yousafhub-w/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/yousafhub-w/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yousafhub-w/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/yousafhub-w/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yousafhub-w/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yousafhub-w/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yousafhub-w/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/yousafhub-w/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yousafhub-w/Leetcode/tree/master/0349-intersection-of-two-arrays) |
